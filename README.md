@@ -6,7 +6,7 @@ The Advanced Machine Learning course focuses on three main areas: Generative Mod
 
 # Overview
 
-3 main parts:
+The course has three focus areas:
 - Generative models
 - Latent space analysis
 - Graph neural networks
