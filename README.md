@@ -24,7 +24,7 @@ based model, and a DDPM. We compare the quality of the samples these models prod
 
 The different priors can be visualed as:
 
-<img src="./imgs/withcbar.png" alt="P1T1" width="500"/>
+<img src="https://github.com/Skroko/Advanced-Machine-Learning-All-projects/blob/main/Imgs/P1-T1.png" alt="P1T1" width="500"/>
 
 Fig 1: Density plots of VAE priors with test data, color-
 coded by label, after encoding to latent space. In the plots
