@@ -1,5 +1,7 @@
 # Advanced-Machine-Learning-All-projects
 
+Course website: https://kurser.dtu.dk/course/02460
+
 ## Course description
 
 The Advanced Machine Learning course focuses on three main areas: Generative Models, Geodesics and Latent Spaces, and Graph Machine Learning. Students learn to implement and evaluate Variational Autoencoders (VAEs) with different priors, and assess model performance through metrics like test set log-likelihood. They explore geometric properties of latent spaces, implementing algorithms for Fisher-Rao geodesics and analyzing their behavior. The course also covers graph machine learning, where students create generative models for graphs using techniques like message passing neural networks, and evaluate these models using metrics such as novelty, uniqueness, and graph statistics. These objectives aim to provide a comprehensive understanding of advanced machine learning techniques, both theoretical and practical.
